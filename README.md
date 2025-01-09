@@ -1,3 +1,3 @@
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zdzieblowski&radius=6&theme=aqua&area=true&order=5&hide_title=true&hide_border=true" width="100%" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zdzieblowski&radius=6&theme=aqua&area=true&order=5&custom_title=%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%A4%C2%B4%E2%9D%9B%E1%B4%A5%E2%9D%9B%60%CA%94%E0%B8%85%20HELLO%E2%94%9C%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4%E2%94%AC%E2%94%B4&hide_border=true" width="100%" />
 </div>
