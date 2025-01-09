@@ -11,8 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" />
 </div>
-
-###
 <!--
 **zdzieblowski/zdzieblowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
